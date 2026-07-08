@@ -1,4 +1,4 @@
-cask "mainline-beta" do
+cask "mainline-beta@1.18.1-beta.10.1" do
   version "1.18.1-beta.10.1"
   sha256 "45ff99848b36f4dd6a8df62b112e778bc38f139b266b194eaa38415211374a2d"
 
